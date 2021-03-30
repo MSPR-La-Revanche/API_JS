@@ -1,3 +1,11 @@
 #API permettant d'envoyer un fichier XML vers une base de données
 #Et récupérer le fichier sur un site front end
 #Ceci est un POC
+#API Node.js
+#écrit en JavaScript
+
+#Pour pouvoir utiliser l'API il faut initialiser le serveur node.js:
+#   -installer Node.js
+#   -ouvrir une console au niveau de l'emplacement du fichier "index.js"
+#   -lancer la commande "npm install"
+#   -lancer la commande "node index.js"
